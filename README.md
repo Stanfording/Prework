@@ -28,9 +28,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:215.77%;position:relative;"><iframe width="260" height="561" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/4udcta"></iframe></div><p><a href="https://imgflip.com/gif/4udcta">via Imgflip</a></p></div>
+<img src="https://imgflip.com/embed/4udcta" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [imgflip](https://imgflip.com/gif-maker).
+GIF created with [ezgif](https://ezgif.com/video-to-gif).
 
 ## License
 
